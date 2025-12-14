@@ -69,3 +69,4 @@ The project uses two datasets:
 -   `True.csv`: Articles from reliable sources.
 -   `Fake.csv`: Articles identified as unreliable.
 *(Ensure these files are in the root directory before running the training script).*
+This is a college project developed by Simran and Aafaq. This demonstrates the application of NLP and Machine learning.
